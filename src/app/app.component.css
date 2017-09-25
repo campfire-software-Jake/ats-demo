@@ -1,0 +1,24 @@
+.main-layout {
+    margin-top: 2rem;
+}
+
+.box {
+    margin-bottom: 0.1em;
+}
+
+.job-name {
+    margin-bottom: 3rem;
+}
+
+
+.info-card-menu {
+    background-color: rgba(187, 218, 247, 0.1);
+}
+
+p {
+    color: #3f3f3f;
+    font-family: 'roboto';
+    font-size: 1.3rem;
+    font-weight: 500;
+    text-transform: uppercase;
+}
